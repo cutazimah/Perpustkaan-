@@ -1,0 +1,4 @@
+.vs/
+LatihanUTS/bin/
+LatihanUTS/obj/Debug
+LatihanUTS/obj/Release
